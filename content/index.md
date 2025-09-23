@@ -1,5 +1,7 @@
 ---
 title: "Bienvenido a Mis Notas"
+aliases: ["Bienvenido a Mis Notas", "Quartz_obsidian"]
+tags: [inicio, materias]
 ---
 
 # 👩‍💻 Bienvenido a Mis Notas de Ingeniería en Sistemas  

@@ -1,5 +1,4 @@
 @use "sass:map";
-
 /**
  * Layout breakpoints
  * $mobile: screen width below this value will use mobile styles
@@ -7,7 +6,8 @@
  * Screen width between $mobile and $desktop width will use the tablet layout.
  * assuming mobile < desktop
  */
-$breakpoints: (
+
+ $breakpoints: (
   mobile: 800px,
   desktop: 1200px,
 );

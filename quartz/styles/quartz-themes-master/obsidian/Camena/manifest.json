@@ -1,0 +1,11 @@
+{
+  "name": "Camena",
+  "version": "0.0.0",
+  "minAppVersion": "1.0.0",
+  "author": "Bee",
+  "authorUrl": "https://splendide-mendax.com",
+  "license": {
+    "name": "MIT License",
+    "spdx_id": "MIT"
+  }
+}
