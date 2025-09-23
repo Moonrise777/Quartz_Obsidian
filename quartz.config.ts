@@ -73,20 +73,11 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts(),
-              Plugin.Exclude({ pattern: ["resources/**", "private/**"] }),
+    filters: [Plugin.RemoveDrafts(), 
+              Plugin.ExplicitPublish(),
     ],
     emitters: [
-      Plugin.AliasRedirects(),
-      Plugin.ComponentResources(),
-      Plugin.ContentPage(),
-      Plugin.FolderPage(),
-      Plugin.TagPage(),
-      Plugin.ContentIndex({
-        enableSiteMap: true,
-        enableRSS: true,
-      }),],
-    emitters: [
+      Plugin.Favicon(),
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),

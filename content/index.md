@@ -1,3 +1,7 @@
+---
+title: "Bienvenido a Mis Notas"
+---
+
 # 👩‍💻 Bienvenido a Mis Notas de Ingeniería en Sistemas  
 
 ¡Hola! Soy estudiante de **Ingeniería en Sistemas Computacionales** y en esta página comparto mis apuntes, proyectos y aprendizajes.  
@@ -11,6 +15,11 @@ Aquí encontrarás un poco de todo lo que voy explorando en mi carrera, ya en mi
 - ⚙️ **Electrónica y Circuitos** 
 - 🖥️ **Programación y Desarrollo**
 - ☁️ **Computación en la Nube & Seguridad** 
+
+---
+
+## Mis notas del 9no Semestre ...
+- [[9no Semestre]]
 ---
 
 ## 🎯 Objetivo de este sitio  
