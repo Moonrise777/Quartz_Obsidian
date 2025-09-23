@@ -1,10 +1,14 @@
 ---
+
+title: Metodologías de Desarrollo de Sistemas 
+
+---
 {"publish":true,"created":"2025-09-22T18:24:43.822-06:00","modified":"2025-09-22T21:43:23.670-06:00","cssclasses":""}
 ---
 
 - Un sistema es el conjunto de componentes que interactúan entre sí para lograr un objetivo común.
 
- - Son los programas de computadora, documentos asociados y la configuración de los datos que se necesitan para hacer que estos programas operen de manera correcta.
+- Son los programas de computadora, documentos asociados y la configuración de los datos que se necesitan para hacer que estos programas operen de manera correcta.
 
 - Los problemas que se originan al desarrollar los sistemas se conocen como crisis del software.
 
