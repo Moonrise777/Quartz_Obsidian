@@ -62,6 +62,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       const crumb = formatCrumb(node.displayName, fileData.slug!, simplifySlug(node.slug))
       if (idx === 0) {
         crumb.displayName = options.rootName
+        crumb.path = "https://moonrise777.github.io/Quartz_Obsidian/"
       }
 
       // For last node (current page), set empty path
