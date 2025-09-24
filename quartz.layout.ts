@@ -60,12 +60,11 @@ export const defaultListPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.Graph() },
       ],
     }),
     Component.Explorer(),
   ],
-  right: [],
+  right: [ Component.Graph() ],
 }
 
 
