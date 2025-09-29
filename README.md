@@ -1,18 +1,8 @@
-# Quartz v4
+# Mi Vault Personal/Escolar con Quartz v4
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Este sitio es mi **vault personal de Obsidian**, publicado como una página web gracias a 
+[Quartz](https://jzhao.xyz/posts/networked-thought).  
+Quartz es un conjunto de herramientas que permite compartir y navegar notas en formato de *digital garden* de manera sencilla y gratuita.  
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+🔗 Consulta la documentación oficial aquí: 
+  - [Documentación de Quartz](https://quartz.jzhao.xyz/)  
