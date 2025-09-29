@@ -28,6 +28,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Copy Index
+        run: cp index.html 404.html
       - name: Install Dependencies
         run: npm ci
       - name: Fetch Quartz Theme
