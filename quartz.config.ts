@@ -18,7 +18,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://moonrise777.github.io/Quartz_Obsidian/",
+    baseUrl: "https://moonrise777.github.io/Quartz_Obsidian",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
