@@ -33,9 +33,9 @@ jobs:
         run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME 
       - name: Build Quartz
         run: npx quartz build
-       - name: Copy Index to 404
+      - name: Copy Index to 404
         working-directory: ./public
-        run: cp public/index.html public/404.html
+        run: cp index.html 404.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
