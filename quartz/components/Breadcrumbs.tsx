@@ -49,7 +49,6 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
     allFiles,
     displayClass,
     ctx,
-    cfg,  // ← AGREGADO: Extrae cfg de las props
   }: QuartzComponentProps) => {
     const trie = (ctx.trie ??= trieFromAllFiles(allFiles))
     const slugParts = fileData.slug!.split("/")
@@ -59,11 +58,11 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       return null
     }
 
-    const crumbs: CrumbData[] = pathNodes.map((node, idx) => {  // ← CAMBIADO: Removido cfg del map
+    const crumbs: CrumbData[] = pathNodes.map((node, idx) => {
       const crumb = formatCrumb(node.displayName, fileData.slug!, simplifySlug(node.slug))
-      if (idx === 0) {
+        if (idx === 0) {
         crumb.displayName = options.rootName
-        crumb.path = cfg.baseUrl ? `https://${cfg.baseUrl}` : "/"  // ← Ahora usa cfg de las props
+        crumb.path = "/Quartz_Obsidian/"
       }
 
       // For last node (current page), set empty path
