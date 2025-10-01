@@ -5,7 +5,7 @@ tags: [9noSemestre, materias]
 
 ## Materias del 9no Semestre
 
-- [Metodologías](Metodologias)
-- [Electrónica](Electronica)
+- [[Metodologias|Metodologías]]
+- [[Electronica|Electrónica]]
 
-Regresar a: [Bienvenido a Mis Notas](../Bienvenido-a-Mis-Notas)
+Regresar a: [[Bienvenido a Mis Notas]]
