@@ -25,5 +25,4 @@ tags: [9noSemestre]
 - La IA es un ejemplo de Software Inteligente de las categorías del software
 
 
-Este tema forma parte de [9no Semestre](https://moonrise777.github.io/Quartz_Obsidian/9no-Semestre)  
-Consulta también [Bienvenido a Mis Notas](https://moonrise777.github.io/Quartz_Obsidian/Bienvenido-a-Mis-Notas) para más contexto.
+Este tema forma parte de [9no Semestre](9no-Semestre)  
