@@ -25,4 +25,4 @@ tags: [9noSemestre]
 - La IA es un ejemplo de Software Inteligente de las categorías del software
 
 
-Este tema forma parte de [[9no Semestre/9no Semestre|9no Semestre]]
+Este tema forma parte de [[9no Semestre/index|9no Semestre]]
