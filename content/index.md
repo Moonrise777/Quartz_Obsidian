@@ -9,7 +9,7 @@ tags: [inicio, materias]
 ¡Hola! Mi nombre es Arely y soy una estudiante de **Ingeniería en Sistemas Computacionales**.
 En esta página comparto mis apuntes, proyectos y aprendizajes de mi último semestre en la carrera.
 
-![Neko](public/static/Resources/Neko.png)
+![Neko](quartz/static/Resources/Neko.png)
 
 ---
 
