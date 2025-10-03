@@ -4,11 +4,11 @@ aliases: ["Bienvenido a Mis Notas", "Quartz_obsidian"]
 tags: [inicio, materias]
 ---
 
-# 👩‍💻 Bienvenido a Mis Notas de Ingeniería en Sistemas  
+# Bienvenido a Mis Notas de Ingeniería en Sistemas  
 
-¡Hola! Soy estudiante de **Ingeniería en Sistemas Computacionales** y en esta página comparto mis apuntes, proyectos y aprendizajes.  
-Aquí encontrarás un poco de todo lo que voy explorando en mi carrera, ya en mi último semestre. 🚀  
-
+¡Hola! Mi nombre es Arely y soy una estudiante de **Ingeniería en Sistemas Computacionales**.
+En esta página comparto mis apuntes, proyectos y aprendizajes de mi último semestre en la carrera.
+![[Neko.png|207x207]]
 ---
 
 ## 📚 Temas que podrás ver aquí  
