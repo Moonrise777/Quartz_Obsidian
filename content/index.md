@@ -27,7 +27,7 @@ En esta página comparto mis apuntes, proyectos y aprendizajes de mi último sem
 - [[9no Semestre/index|9no Semestre]]
 ---
 
-## 🎯 Objetivo de este sitio  
+## Objetivo  
 
 Mi meta es **tener un espacio personal de conocimiento**, donde pueda:  
 ✨ Documentar mis aprendizajes.  
@@ -38,7 +38,7 @@ Mi meta es **tener un espacio personal de conocimiento**, donde pueda:
 
 ## 🌐 Contacto  
 
-Si quieres conectar, aprender juntos o intercambiar ideas:  
+Si quieres contactarme, aprender juntos o intercambiar ideas, no dudes en enviarme un mensaje:  
 📧 **Email:** arelyzuleika@gmail.com 
 💼 **GitHub:** [moonrise777](https://github.com/moonrise777)  
 
