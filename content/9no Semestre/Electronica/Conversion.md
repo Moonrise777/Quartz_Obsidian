@@ -1,9 +1,10 @@
 ---
-
-title: Electrónica II 
-aliases: ["Electrónica"]
-tags: [9noSemestre, electronica]
-
+title: ADC
+aliases:
+  - ADC
+tags:
+  - 9noSemestre
+  - electronica
 ---
 
 ## CONVERSIÓN ANALÓGICA-DIGITAL (ADC)
