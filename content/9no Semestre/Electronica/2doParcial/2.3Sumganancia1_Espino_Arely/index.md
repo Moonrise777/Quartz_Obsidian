@@ -1,6 +1,6 @@
 ---
 title: Sumadora con Ganancia Unitaria 2.3
-aliases: ["2.3"]
+aliases: ["2.3, 2.3Sumganancia1_Espino_Arely"]
 tags: [electronica, parcial2]
 ---
 
