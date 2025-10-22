@@ -4,6 +4,9 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
+
+/* Obsidian */
+.mdc
 .obsidian
 .quartz-cache
 private/
@@ -13,3 +16,4 @@ replit.nix
 .space/
 Quartz_Obsidian-4/
 Vault.md
+
