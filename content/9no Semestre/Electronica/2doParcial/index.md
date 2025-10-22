@@ -10,8 +10,8 @@ Estos son los apuntes y temas cubiertos en el segundo parcial de Electrónica.
 
 📚 Temas
 
-- [[2doParcial/2.3Sumganancia1_Espino_Arely/2.3|Sumadora con Ganancia Unitaria]]
+- [[2doParcial/2.3Sumganancia1_Espino_Arely/|Sumadora con Ganancia Unitaria]]
 
-- [[2doParcial/Nombre_Carpeta_2.4/2|Aquí va el título del tema 2.4]]
+- [[2doParcial/Nombre_Carpeta_2.4/|Aquí va el título del tema 2.4]]
 
-- [[2doParcial/Nombre_Carpeta_2.5/2|Aquí va el título del tema 2.5]]
+- [[2doParcial/Nombre_Carpeta_2.5/|Aquí va el título del tema 2.5]]
