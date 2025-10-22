@@ -12,4 +12,4 @@ Estos son los apuntes de la materia.
 
 ### 📚 Apuntes
 - **[[Conversion|Conversión Analógica Digital ADC ]]**
-- **[[2doParcial/index|Temas del segundo Parcial]]**
+- **[[Electronica/2doParcial/index|Temas del segundo Parcial]]**
