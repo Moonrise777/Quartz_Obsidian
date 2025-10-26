@@ -631,3 +631,47 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+
+/* --- Inicio: CSS para Ocultar/Mostrar Explorer --- */
+
+/* 1. Transición suave para el panel izquierdo (Explorer) */
+div.left {
+  transition: min-width 0.3s ease-in-out, 
+              width 0.3s ease-in-out, 
+              padding 0.3s ease-in-out, 
+              opacity 0.2s ease-in-out;
+  overflow-x: hidden; /* Oculta el contenido mientras se encoge */
+}
+
+/* 2. Transición suave para el panel central (Contenido) */
+div.center {
+  transition: margin-left 0.3s ease-in-out;
+}
+
+/* 3. Esta es la clase "oculta" que agregaremos con JavaScript */
+div.left.explorer-hidden {
+  min-width: 0px !important; // Forzar a 0
+  width: 0px !important;     // Forzar a 0
+  padding-left: 0;
+  padding-right: 0;
+  opacity: 0;
+  border-right: none; // Ocultar el borde
+}
+
+/* 4. Cuando el panel izquierdo está oculto, el central se expande */
+div.left.explorer-hidden ~ div.center {
+  margin-left: 0;
+}
+
+/* 5. Estilo para el botón "pin" que agregaremos */
+.explorer-toggle {
+  cursor: pointer;
+  display: inline-block;
+  padding-right: 10px;
+  color: var(--gray);
+  
+  &:hover {
+    color: var(--secondary); // Color al pasar el mouse
+  }
+}
+/* --- Fin: CSS para Ocultar/Mostrar Explorer --- */
