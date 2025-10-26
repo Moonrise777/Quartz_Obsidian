@@ -1,3 +1,29 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* --- CSS para Ocultar/Mostrar Contenido del Explorer --- */
+
+/* 1. El contenido (lista de archivos) que se va a ocultar */
+.explorer-content {
+  max-height: 1000px; /* Un valor alto para mostrarlo por defecto */
+  overflow: hidden;
+  opacity: 1;
+  /* La animación de deslizamiento y desvanecimiento */
+  transition: max-height 0.4s ease-in-out, 
+              opacity 0.2s ease-in-out;
+}
+
+/* 2. La clase que se añade para ocultar el contenido */
+.explorer-content.explorer-hidden {
+  max-height: 0;
+  opacity: 0;
+}
+
+/* 3. Opcional: Gira la flecha del botón del título si decides conservarla */
+/* Si borras la flecha, puedes borrar este bloque */
+.title-button.desktop-explorer svg.fold {
+  transition: transform 0.3s ease-in-out;
+}
+.title-button.desktop-explorer[aria-expanded="false"] svg.fold {
+  transform: rotate(-90deg);
+}
