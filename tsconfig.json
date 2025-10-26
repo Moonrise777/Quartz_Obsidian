@@ -15,7 +15,13 @@
     "noUnusedParameters": true,
     "esModuleInterop": true,
     "jsx": "react-jsx",
-    "jsxImportSource": "preact"
+    "jsxImportSource": "preact",
+    "types": ["node", "preact"],
+    "paths": {
+      "react": ["./node_modules/preact/compat"],
+      "react-dom/test-utils": ["./node_modules/preact/test-utils"],
+      "react-dom": ["./node_modules/preact/compat"]
+    }
   },
   "include": ["**/*.ts", "**/*.tsx", "./package.json"],
   "exclude": ["build/**/*.d.ts"]
